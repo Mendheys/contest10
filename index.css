@@ -1,0 +1,17 @@
+/* #navbar{
+    border: 1px solid grey;
+} */
+#navbar > div{
+    border: 1px solid grey;
+    display: flex;
+    justify-content: space-around;
+}
+
+#create{
+    text-align: center;
+    
+}
+/* #movieForm{
+    display: flex;
+    flex-direction: column;
+} */

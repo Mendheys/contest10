@@ -1,0 +1,28 @@
+#navbar > div{
+    border: 1px solid grey;
+    display: flex;
+    justify-content: space-around;
+}
+#filter{
+    margin-top: 20px;
+    height: 40px;
+    font-size: 20px;
+}
+
+#movie-count{
+    color: red;
+}
+table{
+    border: 1px solid black;
+    text-align: center;
+    padding: 30px;
+}
+
+thead{
+    color: green;
+    
+}
+tbody{
+    padding: 30px;
+}
+

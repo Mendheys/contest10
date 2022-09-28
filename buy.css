@@ -1,0 +1,11 @@
+#navbar > div{
+    border: 1px solid grey;
+    display: flex;
+    justify-content: space-around;
+}
+
+table{
+    border: 1px solid black;
+    text-align: center;
+    padding: 30px;
+}
